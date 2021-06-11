@@ -11,6 +11,7 @@ public class ArthmaticException extends Exception {
 	        catch(ArithmeticException e) {
 	            System.out.println ("Can't divide a number by 0");
 	        }
+		  //edited
 	    }
 
 
